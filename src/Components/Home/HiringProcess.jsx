@@ -28,15 +28,14 @@ const HiringProcess = () => {
         {steps.map((step, index) => (
           <div key={index} className="flex items-center mb-8 md:mb-0 md:flex-col">
             <div className="flex flex-col items-center">
-          
-              <div className="w-10 h-10 text-[20px] md:text-[32px] flex items-center justify-center  rounded-full  text-[#204ecf]  border-[#204ecf] border p-6 md:p-8 mb-2">
+              <div className="w-10 h-10 text-[18px] md:text-[32px] flex items-center justify-center  rounded-full  text-[#204ecf]  border-[#204ecf] border p-4 md:p-8 mb-2">
                 {step.number}
               </div>
             
-             
+          
             </div>
             <div className="ml-4 md:ml-0 text-start md:text-center md:mt-10">
-              <h3 className="text-lg  text-gray-900 text-[14px] whitespace-nowrap  md:text-[18px] md:leading-[28px] font-semibold ">{step.title}</h3>
+              <h3 className=" text-gray-900 text-[14px]   md:text-[18px] md:leading-[28px] font-semibold ">{step.title}</h3>
               <p className="text-gray-400 text-[14px] leading-[24px] mt-1 md:mt-4">{step.description}</p>
             </div>
           </div>

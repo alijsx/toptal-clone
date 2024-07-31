@@ -6,6 +6,12 @@ import WorldClass from '../Components/Home/WorldClass';
 import BenefitsSection from '../Components/Home/BenefitsSection';
 import Navbar from '../Components/Navbar/Navbar';
 import HiringProcess from '../Components/Home/HiringProcess';
+import TabComponent from '../Components/Home/TabComponent';
+import ClientSection from '../Components/Home/ClientSection';
+import PartnershipSection from '../Components/Home/PartnershipSection';
+import QuoteSlider from '../Components/Home/QuoteSlider';
+import ClientTestimonials from '../Components/Home/ClientTestimonials';
+import BlogSection from '../Components/Home/BlogSection';
 
 const Home = () => {
   const [tenantData, setTenantData] = useState([]);
@@ -31,13 +37,19 @@ const Home = () => {
 
   return (
     <div>
-          <Navbar />
+      <Navbar />
       <Header tenantData={tenantData} activeIndex={activeIndex} />
       <Partners />
       <Tenant data={tenantData} onCardClick={handleCardClick} />
       <WorldClass />
-      <BenefitsSection/>
-      <HiringProcess/>
+      <BenefitsSection />
+      <HiringProcess />
+      <TabComponent />
+      <ClientSection />
+      <PartnershipSection />
+      <QuoteSlider/>
+      <ClientTestimonials/>
+      <BlogSection/>
     </div>
   );
 };
