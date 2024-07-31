@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Vladimir Mitrovic",
+        "role": "C# Developer",
+        "verification": "Engineering",
+        "icon": "FaCode",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052767%2Ffile%2Foptimized%2FApple__262d3d-c217f1acf363078d1e1015c4ae306daf.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052766%2Ffile%2Foptimized%2Fhero_section_big-7b3f7827f4d67d143832d0eb5136e48a.jpg&width=360",
+         "profileImage2": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052766%2Ffile%2Foptimized%2Fhero_section_big-7b3f7827f4d67d143832d0eb5136e48a.jpg&width=1024"
+    },
+    {
+        "name": "Adan Perez",
+        "role": "Product Owner",
+        "verification": "Product Management",
+        "icon": "FiBox",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052747%2Ffile%2Foptimized%2FAT_T_262d3d-3453d52cca0c74827015c3800a102093.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052749%2Ffile%2Foptimized%2Fhero_section_big-e1870f5aedb956f07ae10d5681566e6f.jpg&width=360"
+    },
+    {
+        "name": "Danielle Thompson",
+        "role": "Product Designer",
+        "verification": "Design",
+        "icon": "PiPenNibStraightThin",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6053905%2Ffile%2Foptimized%2FBlackboard__262D3D-947bd23ad0a95ff1db96a93bebed61de.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6053903%2Ffile%2Foptimized%2Fhero_section_big-6d9ee014ab1d4e045279e2826ba931d7.jpg&width=360"
+    },
+    {
+        "name": "Emily Dubow",
+        "role": "UX/UI Designer",
+        "verification": "Design",
+        "icon": "PiPenNibStraightThin",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052715%2Ffile%2Foptimized%2FSamsung__262D3D-fd4e316f568be8a1afc270188e42a5c3.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052712%2Ffile%2Foptimized%2FHero_section_big_800x600_EmilyDubow-1e5b5063ef7d4e5120433d2a8bd6fba0.jpg&width=360"
+    },
+    {
+        "name": "Carole Crawford, CFA",
+        "role": "Finance Expert",
+        "verification": "Finance",
+        "icon": "FaRegCalendarCheck",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F8144910%2Ffile%2Foptimized%2FMorganStanley__262D3D-f47fc20ef83465fe4a6e5e9c935f728a.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F8144908%2Ffile%2Foptimized%2FFinance_CaroleCrawford%2520edit-4e5e14811746efabc3c0777ed8cb25df.png&width=360"
+    },
+    {
+        "name": "Anna D. Lukasiak",
+        "role": "Project Manager",
+        "verification": "Design",
+        "icon": "FaRegCalendarCheck",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052702%2Ffile%2Foptimized%2FGoldman_Sachs__262d3d-4f990bba0af4fb0f083362dc1bee432b.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052709%2Ffile%2Foptimized%2Fhero_section_big-312a048dfc960d0ca97ffff6ad21c751.jpg&amp;width=360"
+    },
+    {
+        "name": "Anna D. Lukasiak",
+        "role": "Project Manager",
+        "verification": "Design",
+        "icon": "FaRegCalendarCheck",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052702%2Ffile%2Foptimized%2FGoldman_Sachs__262d3d-4f990bba0af4fb0f083362dc1bee432b.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052709%2Ffile%2Foptimized%2Fhero_section_big-312a048dfc960d0ca97ffff6ad21c751.jpg&amp;width=360"
+    },
+    {
+        "name": "Anna D. Lukasiak",
+        "role": "Project Manager",
+        "verification": "Design",
+        "icon": "FaRegCalendarCheck",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052702%2Ffile%2Foptimized%2FGoldman_Sachs__262d3d-4f990bba0af4fb0f083362dc1bee432b.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052709%2Ffile%2Foptimized%2Fhero_section_big-312a048dfc960d0ca97ffff6ad21c751.jpg&amp;width=360"
+    },
+    {
+        "name": "Anna D. Lukasiak",
+        "role": "Project Manager",
+        "verification": "Design",
+        "icon": "FaRegCalendarCheck",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052702%2Ffile%2Foptimized%2FGoldman_Sachs__262d3d-4f990bba0af4fb0f083362dc1bee432b.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052709%2Ffile%2Foptimized%2Fhero_section_big-312a048dfc960d0ca97ffff6ad21c751.jpg&amp;width=360"
+    },
+    {
+        "name": "Anna D. Lukasiak",
+        "role": "Project Manager",
+        "verification": "Design",
+        "icon": "FaRegCalendarCheck",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052702%2Ffile%2Foptimized%2FGoldman_Sachs__262d3d-4f990bba0af4fb0f083362dc1bee432b.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052709%2Ffile%2Foptimized%2Fhero_section_big-312a048dfc960d0ca97ffff6ad21c751.jpg&amp;width=360"
+    },
+    {
+        "name": "Anna D. Lukasiak",
+        "role": "Project Manager",
+        "verification": "Design",
+        "icon": "FaRegCalendarCheck",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052702%2Ffile%2Foptimized%2FGoldman_Sachs__262d3d-4f990bba0af4fb0f083362dc1bee432b.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052709%2Ffile%2Foptimized%2Fhero_section_big-312a048dfc960d0ca97ffff6ad21c751.jpg&amp;width=360"
+    },
+    {
+        "name": "Anna D. Lukasiak",
+        "role": "Project Manager",
+        "verification": "Design",
+        "icon": "FaRegCalendarCheck",
+        "companyLogo": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052702%2Ffile%2Foptimized%2FGoldman_Sachs__262d3d-4f990bba0af4fb0f083362dc1bee432b.svg",
+        "profileImage": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fimage%2F6052709%2Ffile%2Foptimized%2Fhero_section_big-312a048dfc960d0ca97ffff6ad21c751.jpg&amp;width=360"
+    }
+]

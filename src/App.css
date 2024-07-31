@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('/public/font.ttf') format('ttf'),
+  
+  }
+  :root{
+    font-family: 'CustomFont', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.fade-enter {
+    opacity: 0;
+  }
+  .fade-enter-active {
+    opacity: 1;
+    transition: opacity 500ms ease-in;
+  }
+  .fade-exit {
+    opacity: 1;
+  }
+  .fade-exit-active {
+    opacity: 0;
+    transition: opacity 500ms ease-in;
+  }
+  
+
+  /* Custom styles for dots */
+.custom-dot {
+  width: 10px;
+  height: 10px;
+  background-color: #1c4bce; /* Custom color */
+  border-radius: 50%;
+}
+
+/* Ensure dots are visible only on md and sm screens */
+@media (min-width: 1024px) {
+  .slick-dots {
+      display: none !important;
+  }
+}
