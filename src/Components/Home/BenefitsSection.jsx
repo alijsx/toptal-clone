@@ -30,10 +30,10 @@ const benefitsData = [
 const BenefitsSection = () => {
   return (
     <div className='bg-[#fcfcfc] '>
-      <section className="grid grid-cols-12 gap-4 mx-auto mt-20 max-w-[1216px] px-8 xl:px-0 py-12">
+      <section className="grid grid-cols-12 gap-4 mx-auto mt-20 max-w-[1216px] px-8 xl:px-0 md:py-12">
         {/* Benefits Section */}
         <div className="col-span-12 lg:col-span-7 flex flex-col text-gray-600 bg-transparent text-start">
-          <h2 className="font-[500] mb-4 p-0 text-[40px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-black">
+          <h2 className="font-[500] mb-4 p-0 text-[28px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-black">
             Build Amazing Teams, On&nbsp;Demand
           </h2>
           <p className="text-gray-500 text-[16px] xl:text-[20px] leading-[24px] xl:leading-[28px]">

@@ -5,7 +5,7 @@ const ClientTestimonials = () => {
     <div className="bg-gray-100 last:mb-0">
       <section className="grid grid-cols-12  max-w-[1216px] px-8 xl:px-0 mx-auto md:gap-6 gap-6 xl:gap-6 2xl:gap-6 py-20">
         <div className="flex flex-col gap-1 col-span-12 text-gray-600 bg-transparent text-center items-center mb-6">
-          <h2 className="mx-auto font-[500] mb-4 p-0 text-[40px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-gray-900" >
+          <h2 className="mx-auto font-[500] mb-4 p-0 text-[28px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-gray-900" >
             Our Clients' Satisfaction is Our Top Priority
           </h2>
           <h3 className="paragraph-md font-regular 2xl:heading-xs">

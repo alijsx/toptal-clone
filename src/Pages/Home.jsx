@@ -12,6 +12,7 @@ import PartnershipSection from '../Components/Home/PartnershipSection';
 import QuoteSlider from '../Components/Home/QuoteSlider';
 import ClientTestimonials from '../Components/Home/ClientTestimonials';
 import BlogSection from '../Components/Home/BlogSection';
+import Faq from '../Components/Home/Faq';
 
 const Home = () => {
   const [tenantData, setTenantData] = useState([]);
@@ -50,6 +51,7 @@ const Home = () => {
       <QuoteSlider/>
       <ClientTestimonials/>
       <BlogSection/>
+      <Faq/>
     </div>
   );
 };

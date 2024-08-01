@@ -55,11 +55,11 @@ const WorldClass = () => {
     return (
         <div className='mx-auto max-w-[1216px]'>
             <div className="col-span-12 mt-10">
-                <header className="flex flex-col gap-1 col-span-12 text-gray-600 bg-white text-center pb-11 items-center">
-                    <h2 className="text-[40px] md:text-[44px] xl:text-[52px] leading-[56px]  xl:leading-[64px]  text-gray-900" data-testid="verticals-title">
+                <header className="flex flex-col gap-1 col-span-12 text-gray-600 bg-white text-center pb-11 items-center px-4">
+                    <h2 className="  text-[28px] md:text-[44px] xl:text-[52px] leading-[56px]  xl:leading-[64px]  text-gray-900" data-testid="verticals-title">
                         Leverage World-Class Talent
                     </h2>
-                    <p className="text-[20px] leading-[28px] text-[#acacad]" style={{ maxWidth: '600px' }}>
+                    <p className=" text-[16px] md:text-[20px] leading-[28px] text-[#acacad]" style={{ maxWidth: '600px' }}>
                         We are the largest, globally-distributed network of top business, design, and technology talent, ready to tackle your most important initiatives.
                     </p>
                 </header>

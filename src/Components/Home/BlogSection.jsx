@@ -3,7 +3,7 @@ function BlogSection() {
     return (
         <div className="mt-24 mx-auto max-w-[1216px] px-8 xl:px-0">
             <div className="flex justify-center" >
-                <h1 className=" font-[500] mb-4 p-0 text-[40px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-gray-900">
+                <h1 className=" font-[500] mb-4 p-0 text-[28px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-gray-900">
                     Explore Trending Toptal Publications
                 </h1>
             </div>

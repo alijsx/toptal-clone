@@ -26,7 +26,7 @@ const Header = ({ tenantData, activeIndex }) => {
                             <div className="relative flex flex-col my-0 mx-auto lg:block">
                                 {/* Title Section */}
                                 <div className="mt-16 z-40 md:mt-24 mx-auto text-center lg:absolute lg:top-6 lg:left-0 lg:flex lg:flex-col lg:justify-center lg:max-w-[510px] lg:m-0 max-w-[500px] lg:text-left">
-                                    <h1 className="mx-auto font-[500] mb-4 p-0 text-[40px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-gray-900">
+                                    <h1 className="mx-auto font-[500] mb-4 p-0 text-[28px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-gray-900">
                                         Hire the <a className='border-black border-b-2' href="/top-3-percent">Top 3%</a> of Freelance Talent<sup className='text-[18px]'>®</sup>
                                     </h1>
                                     <p className="mb-8 text-gray-700 text-[16px] xl:text-[20px] leading-[24px] xl:leading-[28px]">

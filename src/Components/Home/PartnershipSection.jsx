@@ -43,7 +43,7 @@ const PartnershipSection = () => {
             <div className='max-w-[1216px] px-8 xl:px-0 mx-auto'>
                 <div className="grid grid-cols-12  gap-4 ">
                     <div className="col-span-12 text-center mb-12 ">
-                        <h2 className="font-[500] mb-4 p-0 text-[40px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-black">Collaborations With Leading Brands</h2>
+                        <h2 className="font-[500] mb-4 p-0 text-[28px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-black">Collaborations With Leading Brands</h2>
                         <p className="text-gray-600 mt-2">We collaborate with a number of top-tier companies on imagining the future of work. Have a look.</p>
                     </div>
                     {cardData.map(({ id, href, title, description, imageSrc, logoSrc }) => (

@@ -22,7 +22,7 @@ const HiringProcess = () => {
   return (
     <section className=" md:py-12 bg-white mx-auto mt-20 max-w-[1216px] px-4 xl:px-0">
       <div className="text-center mb-12">
-        <h2 className="font-[500] mb-4 p-0 text-[40px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-black">Hiring Made Easy</h2>
+        <h2 className="font-[500] mb-4 p-0 text-[28px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-black">Hiring Made Easy</h2>
       </div>
       <div className="flex flex-col md:flex-row md:items-start md:space-x-4">
         {steps.map((step, index) => (

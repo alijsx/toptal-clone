@@ -74,7 +74,7 @@ const TabComponent = () => {
     return (
         <div className=" max-w-[1216px] px-8 xl:px-0 mx-auto">
             <div className="text-center mb-12">
-                <h2 className="font-[500] mb-4 p-0 text-[40px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-black">Meet Talent in Our Network</h2>
+                <h2 className="font-[500] mb-4 p-0 text-[28px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-black">Meet Talent in Our Network</h2>
             </div>
             <div className="hidden lg:flex justify-around mb-4 border-t border-b py-2">
                 {tabs.map((tab) => (

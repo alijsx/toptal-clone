@@ -44,7 +44,7 @@ const ClientSection = () => {
     return (
         <section className="py-20 max-w-[1216px] px-8 xl:px-0 mx-auto">
             <div className="text-center mb-12">
-                <h2 className="font-[500] mb-4 p-0 text-[40px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-gray-900">
+                <h2 className="font-[500] mb-4 p-0 text-[28px] md:text-[44px] xl:text-[52px] leading-[56px] xl:leading-[64px] text-gray-900">
                     Why Organizations Choose Toptal
                 </h2>
                 <p className="text-gray-600 text-base md:text-lg">
