@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
   return (
-    <footer className="bg-[#0f256e]">
+    <footer className="bg-[#0f256e] mt-10" >
       <div className="max-w-[1216px]   px-6 py-12 mx-auto">
         <div className="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 xl:grid-cols-5 ">
           <div className=' md:mr-4 mb-4 md:mb-0'>
@@ -154,9 +154,12 @@ function Footer() {
         </div>
         <hr className="my-6 border-gray-200 md:my-10" />
         <div className="px-4 py-6   md:flex md:items-center md:justify-between">
-          <span className="text-sm text-gray-500 dark:text-gray-300 sm:text-center">
-            © 2023 <a href="https://flowbite.com/">Flowbite™</a>. All Rights
-            Reserved.
+
+          <span className="text-sm text-white text-center  md:flex items-center w-full space-x-2">
+            <img className='w-32' src="https://assets.toptal.io/images?url=https%3A%2F%2Fwww.toptal.com%2Ftoptal-logo.png&amp;width=360" alt="" />
+            <span className=''>
+              The World’s Top Talent, On Demand ®
+            </span>
           </span>
           <div className="flex mt-4 sm:justify-center md:mt-0 space-x-5 rtl:space-x-reverse">
             <a
@@ -252,6 +255,10 @@ function Footer() {
             </a>
           </div>
         </div>
+        <hr className="my-6  lg:my-8" />
+        <span className="block text-sm  sm:text-center text-white ">© 2024 <a className="hover:underline">Copyright 2010 - 2024 Toptal, LLC</a> Privacy Policy
+          Website Terms
+          Accessibility</span>
       </div>
     </footer>
   );
