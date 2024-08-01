@@ -49,7 +49,7 @@ const PartnershipSection = () => {
                     {cardData.map(({ id, href, title, description, imageSrc, logoSrc }) => (
                         <a key={id} href={href} aria-label={title} className="relative group shadow-sm rounded-md  col-span-12 lg:col-span-4  flex flex-col md:flex-row lg:flex-col hover:bg-gray-100 transition duration-200">
                             <div className="relative flex overflow-hidden">
-                                <img src={imageSrc} alt="" className="w-full min-h-52 object-cover md:h-full lg:h-61" />
+                                <img src={imageSrc} alt="" className=" max-w-[394px] w-full  min-h-52 object-cover " />
                                 <div className="absolute inset-0 flex items-center justify-center text-white bg-blue-600 bg-opacity-40 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
                                     <span className="font-semibold">Read more</span>
                                 </div>

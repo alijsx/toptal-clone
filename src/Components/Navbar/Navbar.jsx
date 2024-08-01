@@ -20,7 +20,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <nav className={`transition-transform bg-[#d2d6e2] z-50 ${isSticky ? 'bg-white shadow-md sticky top-0' : ''}`}>
+    <nav className={`transition-transform bg-[#d2d6e2] z-50 ${isSticky ? 'bg-white shadow-md sticky top-0 pb-2' : ''}`}>
       <div className="max-w-[1226px] mx-auto flex items-center justify-between pt-3 px-8 xl:px-0">
         {/* Logo */}
         <div className="flex items-center lg:-mt-3">

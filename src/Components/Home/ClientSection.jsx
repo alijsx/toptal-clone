@@ -51,14 +51,14 @@ const ClientSection = () => {
                     Discover the many ways in which our clients have embraced the benefits of the Toptal network.
                 </p>
             </div>
-            <ul className="grid grid-cols-12 gap-4 mx-6 sm:mx-auto lg:mx-auto xl:mx-auto max-w-full">
+            <ul className="grid grid-cols-12 gap-4  sm:mx-auto lg:mx-auto xl:mx-auto max-w-full">
                 {clients.map(client => (
                     <li key={client.id} className="col-span-12 lg:col-span-4 md:col-span-6 relative group">
                         <div className="relative h-full overflow-hidden shadow-lg transition-shadow duration-300">
                             <img
                                 alt=""
                                 src={client.imgSrc}
-                                className="w-full h-full max-w-[392px] max-h-[348px] object-cover transition-transform duration-300 group-hover:scale-105"
+                                className="w-full h-full xl:max-w-[392px] xl:max-h-[348px] object-cover transition-transform duration-300 group-hover:scale-105"
                             />
                             <div className="absolute inset-0 bg-[#183a9e]/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                             <div className="absolute inset-0 flex flex-col justify-between p-4">
